@@ -4,9 +4,8 @@ Deepa Bhojwani, Huining Kang, Naomi P Moskowitz, Dong-Joon Min,
 Hokyung Lee, Jeffrey W Potter, George Davidson, Cheryl L Willman,
 Michael J Borowitz, Ilana Belitskaya-Levy, et al. Biologic pathways
 associated with relapse in childhood acute lymphoblastic leukemia: a
-children's oncology group study. Blood, 108(2):711–717, 2006
+children's oncology group study. Blood, 108(2):711â€“717, 2006
 
-Indian_Liver_Patient_Data, Pima_Indians_Diabetes_Data, and Statlog_Heart_Disease_Data:
+Indian_Liver_Patient_Data, Pima_Indians_Diabetes_Data, and Statlog_Heart_Disease_Data datasets:
 
-M. Lichman. UCI machine learning repository, 2013. URL
-http://archive.ics.uci.edu/ml.
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
