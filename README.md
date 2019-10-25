@@ -1,4 +1,4 @@
-Matched Forest
+# Matched Forest
 This code implements Matched Forest algorithm which aims to find important variables in high-dimensional matched case-control data sets. Please refer to our papers for more details:
 
 https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz785/5588842
