@@ -19,7 +19,6 @@ pVal <- function(obs, null.dist) {
 
 ##################
 library(randomForest)
-library(ggplot2)
 ##################
 #Inputs
 dir_main = paste('C:/.../',sep='')
