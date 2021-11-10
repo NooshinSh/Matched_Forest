@@ -24,7 +24,6 @@ library(randomForest)
 dir_main = paste('C:/.../',sep='')
 dir_input = paste(dir_main,'data/',sep='')
 dir_output = paste(dir_main,'output/',sep='')
-dir_input='C:/Users/Nooshin Shomalzadeh/Documents/Research/Matched Forest/Paper/Manuscript/code/'
 data_name='Childhood_Acute_Lymphoblastic_Leukemia_Data'
 ############################################################
 df<-read.table(paste(dir_input,data_name,'.csv',sep=''),header = TRUE)
